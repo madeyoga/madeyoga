@@ -5,5 +5,5 @@
 </a>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeyoga&langs_count=50&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeyoga&langs_count=50&hide=jupyter%20notebook,css,html" />
 </a>
