@@ -6,9 +6,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=madeyoga&show_icons=true" />
   </a>
   <br>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeyoga&layout=compact&langs_count=50&hide=jupyter%20notebook,css,html" />
-  </a>
 </div>
 
 - 🔭 My Discord Bot: **[Nano](https://github.com/madeyoga/Nano-Bot)** and **[Musicfy](https://github.com/nano-devs/Musicfy-Bot)**
@@ -30,6 +27,10 @@
   <a href="#"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
   <a href="#"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
 </p>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeyoga&layout=compact&langs_count=50&hide=jupyter%20notebook,css,html" />
+</a>
 
 #### Others
 <p align="left">
