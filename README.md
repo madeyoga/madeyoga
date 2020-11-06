@@ -9,7 +9,7 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeyoga&langs_count=50&hide=jupyter%20notebook,css,html" />
   </a>
-</center>
+</div>
 
 - 🔭 My Discord Bot: **[Nano](https://github.com/madeyoga/Nano-Bot)** and **[Musicfy](https://github.com/nano-devs/Musicfy-Bot)**
 
