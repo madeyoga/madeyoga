@@ -14,7 +14,7 @@
 
 - 📫 Discord: **Made Y#8195**
 
-- ⚡ Community  **[Nano & Musicfy • BOT Support Server](Y8sB4ay)**
+- ⚡ Community  **[Nano & Musicfy • BOT Support Server](https://discord.gg/Y8sB4ay)**
 
 [![Discord Badge](https://discordapp.com/api/guilds/458296099049046018/embed.png)](https://discord.gg/Y8sB4ay)
 
