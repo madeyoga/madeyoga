@@ -12,7 +12,7 @@
 
 - 🔭 My Discord Bot: **[Nano](https://github.com/madeyoga/Nano-Bot)** and **[Musicfy](https://github.com/nano-devs/Musicfy-Bot)**
 
-- 🌱 My website: **[https://madeyoga.github.io/resume](https://madeyoga.github.io/resume)**
+- 🌱 My website: **[https://articlearn.id](https://articlearn.id)**
 
 - 📫 Discord: **Made Y#8195**
 
