@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Made Y.</h1>
 <h3>Developer from Indonesia</h3>
 
+[![](https://github-profile-trophy.vercel.app/?username=madeyoga)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madeyoga&show_icons=true" />
 </a>
