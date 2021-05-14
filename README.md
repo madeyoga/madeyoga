@@ -19,3 +19,5 @@
 - 📫 Discord: **Made Y#8195**
 
 - ⚡ Community  **[Nano & Musicfy • BOT Support Server](https://discord.gg/Y8sB4ay)**
+
+- I'm currently learning English as a second language, please don't be rude :<
