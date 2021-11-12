@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Made Y.</h1>
-<h3>Developer from Indonesia</h3>
 
 [![](https://github-profile-trophy.vercel.app/?username=madeyoga)](https://github.com/ryo-ma/github-profile-trophy)
 
