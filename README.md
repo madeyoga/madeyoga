@@ -1,4 +1,6 @@
 <h1>Hi 👋, I'm Made Y.</h1>
+I mainly use Python. But I also code in Java and C# as well. I have been a huge fan of C# since the release of .NET 5.
+
 
 [![](https://github-profile-trophy.vercel.app/?username=madeyoga)](https://github.com/ryo-ma/github-profile-trophy)
 
