@@ -1,17 +1,5 @@
 <h1>Hi 👋, I'm Made Y.</h1>
-I mainly use Python. But I also code in Java and C# as well. I have been a huge fan of C# since the release of .NET 5.
-
-
-[![](https://github-profile-trophy.vercel.app/?username=madeyoga)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madeyoga&show_icons=true" />
-</a>
-<br>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeyoga&layout=compact&langs_count=50&hide=jupyter%20notebook,css,html" />
-</a>
+I mainly use Python. I also code in Java and C# as well. I have been a huge fan of C# since the release of .NET 5.
 
 - 🔭 My Discord Bot: **[Nano](https://github.com/madeyoga/Nano-Bot)** and **[Musicfy](https://github.com/nano-devs/Musicfy-Bot)**
 
@@ -22,3 +10,15 @@ I mainly use Python. But I also code in Java and C# as well. I have been a huge 
 - ⚡ Community  **[Nano & Musicfy • BOT Support Server](https://discord.gg/Y8sB4ay)**
 
 - I'm currently learning English as a second language, please don't be rude :<
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madeyoga&show_icons=true" />
+</a>
+<br>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeyoga&layout=compact&langs_count=50&hide=jupyter%20notebook,css,html" />
+</a>
+
+[![](https://github-profile-trophy.vercel.app/?username=madeyoga)](https://github.com/ryo-ma/github-profile-trophy)
