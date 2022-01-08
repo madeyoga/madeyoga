@@ -9,7 +9,7 @@ I mainly use Python. I also code in Java and C# as well. I have been a huge fan 
 
 - ⚡ Community  **[Nano & Musicfy • BOT Support Server](https://discord.gg/Y8sB4ay)**
 
-- I'm currently learning English as a second language, please don't be rude :<
+- I'm currently learning English as a second language
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
