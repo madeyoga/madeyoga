@@ -19,10 +19,6 @@ I mainly use Python. I also code in Java and C# as well. I have been a huge fan 
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madeyoga&show_icons=true&theme=dark">
-  </a>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeyoga&layout=compact&langs_count=50&hide=jupyter%20notebook,css,html&show_icons=true&theme=dark">
 </p>
 
