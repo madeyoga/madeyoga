@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Made Y.</h1>
-I mainly use Python. I also code in Java and C# as well. I have been a huge fan of C# since the release of .Net5.
+I mainly use Python. I also code in Java and C# as well.
 
 - 🔭 My Discord Bot: **[Nano](https://github.com/madeyoga/Nano-Bot)**
 
