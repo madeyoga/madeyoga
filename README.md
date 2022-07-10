@@ -9,9 +9,6 @@ I mainly use Python. I also code in Java and C# as well.
 
 - ⚡ Community  **[Nano & Musicfy • BOT Support Server](https://discord.gg/Y8sB4ay)**
 
-- I'm currently learning ASP Net Core. And English.
-
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=madeyoga&show_icons=true&theme=dark" width=400>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=madeyoga&theme=dark" width=400>
