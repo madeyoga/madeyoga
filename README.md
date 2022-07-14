@@ -3,7 +3,7 @@ I mainly use Python. I also code in Java and C# as well.
 
 - 🔭 My Discord Bot: **[Nano](https://github.com/madeyoga/Nano-Bot)**
 
-- 🌱 My website: **[https://articlearn.id](https://articlearn.id)**
+- 🌱 My website: **[https://developerblogs.id](https://developerblogs.id)**
 
 - 📫 Discord: **Made Y#8195**
 
