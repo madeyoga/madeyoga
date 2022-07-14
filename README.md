@@ -1,13 +1,8 @@
-<h1>Hi 👋, I'm Made Y.</h1>
-I mainly use Python. I also code in Java and C# as well.
-
-- 🔭 My Discord Bot: **[Nano](https://github.com/madeyoga/Nano-Bot)**
-
-- 🌱 My website: **[https://developerblogs.id](https://developerblogs.id)**
-
-- 📫 Discord: **Made Y#8195**
-
-- ⚡ Community  **[Nano & Musicfy • BOT Support Server](https://discord.gg/Y8sB4ay)**
+- 👋 Hi, I'm @MadeY.
+- 👀 I’m interested in web and mobile development.
+- 💞️ I'm currently working in Python and C# on backend. I can also code in Java as well.
+- 🌱 My website: [https://developerblogs.id](https://developerblogs.id)
+- 📫 You can contact me either by email or Discord Made Y#8195
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=madeyoga&show_icons=true&theme=dark" width=400>
