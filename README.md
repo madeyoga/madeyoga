@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @MadeY.
+- 👋 Hi, I'm Oga.
 - 👀 I’m interested in web and mobile development.
 - 💞️ I'm currently working in Python and C# on backend. I can also code in Java as well.
 - 🌱 My website: [https://developerblogs.id](https://developerblogs.id)
