@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile development.
 - 💞️ I'm currently working in Python and C# on backend. I can also code in Java as well.
 - 🌱 My website: [https://developerblogs.id](https://developerblogs.id)
-- 📫 You can contact me either by email or Discord Made Y#8195
+- 📫 You can contact me either by email m26416083@alumni.petra.ac.id or Discord Made Y#8195
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=madeyoga&show_icons=true&theme=dark" width=400>
