@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Oga.
 - 👀 I’m interested in web and mobile development.
-- 💬 Ask me about **dotnet, aspnetcore, python, django, vue**
 - 🌱 My website: [https://developerblogs.id](https://developerblogs.id)
 
 <div align="left">
