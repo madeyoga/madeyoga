@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Oga.
 - 👀 I’m interested in web and mobile development.
-- 🌱 My website: [https://developerblogs.id](https://developerblogs.id)
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=madeyoga&color=080808" />
