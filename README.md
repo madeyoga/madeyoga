@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Oga.
-- 👀 I’m interested in web and mobile development.
+- 👀 I’m focusing on web development.
+- 🌱 I’m currently learning csharp and aspnetcore.
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=madeyoga&color=080808" />
