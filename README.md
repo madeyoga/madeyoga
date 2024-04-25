@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning csharp and aspnetcore.
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fccd0088791-091a-43c1-9be4-e1745ce0d068/foundational-c-sharp-with-microsoft)
 
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=madeyoga&color=080808" />
-</div>
-
 ---
 
 <p align="left">
