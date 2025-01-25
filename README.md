@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Oga. Software Engineer from Samarinda, Indonesia.
 - 👀 I’m focusing on web development.
 - 💬 Ask me about **django**
-- 🌱 I’m currently learning csharp and aspnetcore.
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fccd0088791-091a-43c1-9be4-e1745ce0d068/foundational-c-sharp-with-microsoft)
 
 ---
