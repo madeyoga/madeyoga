@@ -11,4 +11,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,django,js,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,django,js,vue,nuxt,docker)](https://skillicons.dev)
