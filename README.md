@@ -6,10 +6,9 @@
 
 ## 💻 About Me
 
-* **Focus:** I'm primarily focused on **Full-Stack Web Development**.
-* **Current Stack:** My go-to technologies right now are **ASP.NET Core** and **Nuxt** (Vue.js framework).
+* **Focus:** I'm primarily focused on **Web Development**.
+* **Current Stack:** My go-to technologies right now are **ASP.NET Core**, **Nuxt**, and **Podman**.
 * **Expertise:** I'm proficient in Python and C#.
-* **Ask Me About:** Feel free to ask me anything related to **Django**!
 
 A visual overview of the technologies I work with:
 
@@ -24,6 +23,6 @@ A visual overview of the technologies I work with:
 ---
 
 <p align="center">
-    <a href="mailto:YOUR_EMAIL_HERE">Let's Connect!</a> | 
+    <a href="mailto:madeybog@gmail.com">Let's Connect!</a> | 
     <a href="www.linkedin.com/in/made-mahardika-4a205a379">LinkedIn Profile</a>
 </p>
