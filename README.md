@@ -20,9 +20,3 @@ A visual overview of the technologies I work with:
 
 * [**Foundational C# with Microsoft**](https://www.freecodecamp.org/certification/fccd0088791-091a-43c1-9be4-e1745ce0d068/foundational-c-sharp-with-microsoft) (freeCodeCamp)
 
----
-
-<p align="center">
-    <a href="mailto:madeybog@gmail.com">Let's Connect!</a> | 
-    <a href="www.linkedin.com/in/made-mahardika-4a205a379">LinkedIn Profile</a>
-</p>
