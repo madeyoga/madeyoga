@@ -1,10 +1,10 @@
 # 👋 Hello there! I'm Made
 Software Engineer | .NET | Nuxt
 
-I build open-source tools for .NET and explore AI agents & LLMs - honest experiments, practical recipes, and software that ships.
-
-* My go-to technologies right now are **ASP.NET Core**, **Nuxt**, and **Docker**.
+* I build open-source tools and explore AI agents & LLMs.
+* My go-to technologies for web right now are **ASP.NET Core**, **Nuxt**, and **Docker**.
 * [**Foundational C# with Microsoft**](https://www.freecodecamp.org/certification/fccd0088791-091a-43c1-9be4-e1745ce0d068/foundational-c-sharp-with-microsoft) (freeCodeCamp)
+* I use [Cursor Agents](https://cursor.com/home) with Grok 4.5. Hermes with DeepSeek V4.
 
 ---
 
