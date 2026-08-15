@@ -1,5 +1,4 @@
 # 👋 Hello there! I'm Made
-Software Engineer | .NET | Nuxt
 
 * I build open-source tools, explore AI agents, and Game Development.
 * My go-to technologies for web right now are **ASP.NET Core**, **Nuxt**, and **Docker**.
