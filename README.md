@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Made
+# 👋 Hello there! I'm Oga
 
 * I build open-source tools and explore AI agents.
 * My go-to technologies for web right now are **ASP.NET Core**, **Nuxt**, and **Docker**.
